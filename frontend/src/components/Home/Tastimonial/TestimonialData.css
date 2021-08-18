@@ -1,0 +1,33 @@
+.signle_box{
+    width: 350px;
+    padding: 20px;
+}
+
+.img_area img{
+    width: 80px;
+}
+
+/* .hola{
+    background: cyan;
+} */
+
+.text_area{
+    padding-left: 40px;
+    padding-top: 20px;
+}
+
+.comment{
+    color: rgb(155, 150, 150);
+    font-size: 14px;
+}
+
+.title{
+    color: rgb(155, 150, 150);
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.name{
+    color: black;
+    font-weight: 600;
+}

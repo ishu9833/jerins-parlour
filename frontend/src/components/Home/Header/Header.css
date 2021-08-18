@@ -1,0 +1,25 @@
+.custom_link{
+    border: none;
+    border-radius: 8px;
+    background-color: #F63E7B;
+    width: 200px;
+    color: white;
+}
+
+.image img{
+    width: 400px;
+}
+
+.header{
+    margin-top: 60px;
+}
+
+.intro{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.intro p{
+    color: #bfbfbf;
+}

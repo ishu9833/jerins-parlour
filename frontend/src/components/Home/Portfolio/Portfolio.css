@@ -1,0 +1,19 @@
+.makeup_img img{
+    width: 400px;
+}
+
+.coloring_text, h2{
+    color: #F63E7B;
+}
+
+.info h3 , h2{
+    font-weight: 600;
+    font-size: 34px;
+}
+
+.portfolio{
+    background-color: #fff8f5;
+    width: 100%;
+    height: 70vh;
+    padding-top: 60px;
+}
